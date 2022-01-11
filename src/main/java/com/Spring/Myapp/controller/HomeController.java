@@ -39,9 +39,6 @@ public class HomeController {
 	@Autowired
 	private HomeDao homeDao;
 
-	/**
-	 * Simply selects the home view to render by returning its name.
-	 */
 
 	// for mail option from email id and password is not given that should be given
 	// in the servlet-context.xml
